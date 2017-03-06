@@ -1,3 +1,0 @@
-datasciencecoursera
-===================
-Class Projects
